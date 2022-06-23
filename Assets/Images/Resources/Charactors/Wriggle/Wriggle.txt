@@ -1,0 +1,4 @@
+Author = さの 
+Pixiv ID = 11402
+Rect = {0.4,0.0,0.5,1.0}
+FacePoint = {0.5,0.25}

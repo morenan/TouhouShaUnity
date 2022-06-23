@@ -1,0 +1,3 @@
+Author = NEKO RE.TH
+Pixiv ID = 83333863
+Rect = {0.3,0.1,0.4,0.4}

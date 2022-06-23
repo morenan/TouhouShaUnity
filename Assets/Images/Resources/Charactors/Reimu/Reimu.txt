@@ -1,0 +1,4 @@
+Author = 藤原
+Pixiv ID = 51160511
+Rect = {0.2,0,0.6,0.6}
+FacePoint = {0.5,0.65}

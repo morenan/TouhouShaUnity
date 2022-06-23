@@ -1,0 +1,3 @@
+Author = ryosios
+Pixiv ID = 39444173
+Rect = {0,0,1,1}

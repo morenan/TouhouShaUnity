@@ -1,0 +1,3 @@
+Author = A.one
+Pixiv ID = 49821
+Rect = {0.15,0,0.3,0.8}

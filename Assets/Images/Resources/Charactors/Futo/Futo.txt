@@ -1,0 +1,3 @@
+Author = ねこ
+Pixiv ID = 40536191
+Rect = {0,0,1,1}

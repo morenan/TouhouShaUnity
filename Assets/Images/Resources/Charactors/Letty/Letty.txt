@@ -1,0 +1,4 @@
+Author = うぬ 
+Pixiv ID = 444909
+Rect = {0.0,0.0,1.0,1.0}
+FacePoint = {0.5,0.3}

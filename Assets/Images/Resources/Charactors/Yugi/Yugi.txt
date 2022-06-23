@@ -1,0 +1,4 @@
+Author = 羽々斬
+Pixiv ID = 61298567
+Rect = {0.5,0,0.5,1.0}
+FacePoint = {0.5,0.25}

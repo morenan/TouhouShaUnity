@@ -1,0 +1,3 @@
+Author = 羽々斬
+Pixiv ID = 86142125
+Rect = {0,0,1,1}

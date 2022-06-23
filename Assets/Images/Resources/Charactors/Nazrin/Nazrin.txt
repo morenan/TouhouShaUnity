@@ -1,0 +1,3 @@
+Author = 禾书Zlin
+Pixiv ID = 63813469
+Rect = {0.0,0.0,1.0,0.9}

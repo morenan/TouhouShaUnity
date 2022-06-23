@@ -1,0 +1,4 @@
+Author = ryosios
+Pixiv ID = 60684150
+Rect = {0.5,0.0,0.5,1.0}
+FacePoint = {0.5,0.25}

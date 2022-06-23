@@ -1,0 +1,3 @@
+Author = 菊月
+Pixiv ID = 64134547
+Rect = {0,0,1,1}

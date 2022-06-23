@@ -1,0 +1,4 @@
+Author = minusT 
+Pixiv ID = 15772166
+Rect = {0.1,0.1,0.8,0.8}
+FacePoint = {0.5,0.2}

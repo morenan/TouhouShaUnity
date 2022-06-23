@@ -1,0 +1,4 @@
+Author = アバンドン蘭花
+Pixiv ID = 61263633
+Rect = {0,0,1,1}
+FacePoint = {0.5,0.6}
